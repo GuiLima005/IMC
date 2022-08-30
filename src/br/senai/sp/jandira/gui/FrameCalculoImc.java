@@ -24,6 +24,7 @@ public class FrameCalculoImc {
 	public int largura;
 	public int altura;
 	public Color corDeFundoDaTela;
+	public String teste;
 	public Font fonteDosLabels;
 	public Color corDoBotao;
 //	public Color corDeTextoDoBotao;
